@@ -8,3 +8,9 @@ openpyxl
 fuzzywuzzy
 python-Levenshtein
 python-dateutil
+scikit-learn
+xgboost
+sentence-transformers
+redis
+joblib
+torch
